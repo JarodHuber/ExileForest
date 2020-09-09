@@ -4,7 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Ground
+  - SceneChanger
+  - TextPopup
+  - Note
+  - Key
+  - Gate
+  - ShowMap
+  - Environment
   layers:
   - Default
   - TransparentFX
@@ -14,9 +20,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Player
+  - Environment
+  - NavMeshBlockers
   - 
   - 
   - 
