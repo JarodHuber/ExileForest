@@ -1,15 +1,19 @@
 # ExileForest
 made in Unity 2019.4.9 with Visual Studios 2019.16.7.1
 
-To build open the build settings in the file dropdown and press build, or use the keyboard shortcut ctrl+b
+To build open the build settings in the file dropdown and press build, or use the keyboard shortcut ctrl+b.
 
 Exile Forest was a game I created with 4 other people to compete in a Game Jam host by UWB we achieved 2nd place. 
 The game is a first-person horror game heavily inspired by slender, the player's goal is to find map pieces which will lead to key to escape the forest the player is enclosed in.
 While searching for these pieces the player will be hunted with increasing intensity by a monster, if the monster catches the player, they will die.
 
-the Controls are WASD to move, left-shift to sprint, mouse to look, left-click to interact, F to toggle flashlight, and E to toggle map
+Trailer: 
 
-# Credits
+[<img src="http://i3.ytimg.com/vi/o1LIxFhAc_I/hqdefault.jpg" width="30%">](https://www.youtube.com/watch?v=o1LIxFhAc_I&feature=youtu.be&ab_channel=JacobHuber)
+
+the Controls are WASD to move, left-shift to sprint, mouse to look, left-click to interact, F to toggle flashlight, and E to toggle map.
+
+## Credits
 
 Jarod Huber: AI Programmer, Tree Placer, Player Movement Coder
 
